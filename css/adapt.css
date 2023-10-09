@@ -1,0 +1,39 @@
+@media (max-width:1560px) {
+    .container {
+        max-width: 1520px;
+    } 
+
+    .content__text {
+        zoom: 30%;
+    }
+}
+
+@media (max-width:1200px) {
+    .container {
+        max-width: 970px;
+    } 
+
+    .content__text {
+        zoom: 30%;
+    }
+}
+
+@media (max-width:992px) {
+    .container {
+        max-width: 750px;
+    } 
+
+    .content__text {
+        zoom: 30%;
+    }
+}
+
+@media (max-width:767px) {
+    .container {
+        max-width: none;
+    } 
+
+    .content__text {
+        zoom: 30%;
+    }
+}
